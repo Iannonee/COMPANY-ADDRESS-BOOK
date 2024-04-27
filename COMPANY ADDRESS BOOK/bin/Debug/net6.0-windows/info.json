@@ -1,0 +1,9 @@
+{
+  "Working": {
+    "Debug": true
+  },
+  "Access": {
+    "Provider": "Provider=Microsoft.ACE.OLEDB.12.0;",
+    "PersistSecurityInfo": "Persist Security Info=False;"
+  }
+}
